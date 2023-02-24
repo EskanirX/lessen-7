@@ -1,0 +1,97 @@
+/* header */
+.logo{
+    margin: 25px 534.9px 25px 95px;
+}
+.nav-item{
+    display: flex;
+    align-items: center;
+}
+.nav-div{
+    width: 498.99px;
+    height: 21px;
+}
+.nav-ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.div-banner{
+    width: 1360px;
+    height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 88px;
+}
+.main-block{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 94.1px;
+    margin-top: 73.8px;
+    width: 1171.57px;
+    height: 682.13px;
+}
+.fixed-div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 241.47px;
+    height: 242.56px;
+}
+.fixed-p:nth-child(2){
+    font-size: 26px;
+    padding-top: 2.2px;
+    padding-bottom: 39.1px;
+}
+.small-block{
+    width: 269.7px;
+    height: 327.42px;
+}
+.small-block:nth-child(2){
+    position: relative;
+    margin-left: 300px;
+}
+.small-block:nth-child(3){
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.small-block:nth-child(5){
+    margin-left: 300px;
+    position: relative;
+}
+.small-block:nth-child(6){
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.fixed-p1{
+    position: absolute;
+    font-size: 18px;
+    top: 17.5px;
+    left: 34.6px;
+}
+.lorem{
+    padding-top: 52.2px;
+}
+.p-item{
+    font-size: 18px;
+    padding-top: 20.4px;
+    padding-bottom: 5px;
+}
+.small-block:nth-child(4){
+    position: relative;
+}
+.fixed-p2{
+    position: absolute;
+    top: 17.5px;
+    left: 34.6px;
+    font-size: 18px;
+}
+.fixed-p3{
+    position: absolute;
+    top: 17.5px;
+    left: 34.6px;
+    font-size: 18px;
+}
